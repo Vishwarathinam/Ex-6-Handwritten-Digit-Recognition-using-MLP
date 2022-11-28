@@ -21,9 +21,10 @@ This part is the same as using a neural network architecture of 2-2-1, 2 node in
 To find the weights for the edges to the 1-output unit. Weights associated would be: edge joining 1st node (peak1 output) to the output node edge joining 2nd node (peak2 output) to the output node bias edge
 
 ## Program:
-```
-Developed By : Silambarsan K 
-Roll No: 212221230101
+```python
+
+Developed By: VISHWA RATHINAM S 
+Roll No: 212221240063
 
 import numpy as np
 import pandas as pd
